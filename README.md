@@ -7,7 +7,7 @@ Adds a request history panel to [Django Debug Toolbar](https://github.com/django
 ### Install ###
 
 ```bash
-pip install git+https://github.com/djsutho/django-debug-toolbar-request-history.git
+pip install git+https://github.com/radar8/django-debug-toolbar-request-history.git
 ```
 
 Add the panel to ```DEBUG_TOOLBAR_PANELS``` (see the config section for more details).
